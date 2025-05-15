@@ -97,6 +97,11 @@ an aspiring Data Analyst passionate about transforming raw data into meaningful 
 
 ---
 
+## 🔗 Explore More Projects
+👉 Check out my complete portfolio: (https://portfolio-three-eta-35.vercel.app)
+
+--
+
 # 🙏 Thanks for Visiting!
 
 If you liked this project, don't forget to ⭐ **star this repo** and **follow** for more upcoming SQL projects!
